@@ -12,15 +12,14 @@
 </WaterExtract>
 ```
 
-其中，`InputDemFilePath`是输入的DEM，`OutputFolderPath`是输出图层的存放位置，`Threshold`是汇水面积阈值。
+**其中，`InputDemFilePath`是输入的DEM，`OutputFolderPath`是输出图层的存放位置，`Threshold`是汇水面积阈值。**
 
 ### 分步结果
 
-![1700546589304](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1700546589304.png)
+![1700547106223](assets/1700547106223.png)
 
-![1700546596361](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1700546596361.png)
+![1700547110796](assets/1700547110796.png)
 
-![1700546601499](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1700546601499.png)
+![1700547114979](assets/1700547114979.png)
 
-![1700546608472](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1700546608472.png)
-
+![1700547119953](assets/1700547119953.png)
